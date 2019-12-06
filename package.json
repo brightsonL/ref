@@ -17,7 +17,7 @@
     "byte",
     "64"
   ],
-  "version": "2.0.0",
+  "version": "3.0.0",
   "license": "MIT",
   "author": "Nathan Rajlich <nathan@tootallnate.net> (http://tootallnate.net)",
   "repository": {
@@ -40,6 +40,6 @@
     "jade": "1",
     "marked": "0.6.2",
     "mocha": "*",
-    "weak": "github:lxe/node-weak#node-12"
+    "weak": "github:brightsonL/node-weak#node-12.8.1"
   }
 }
